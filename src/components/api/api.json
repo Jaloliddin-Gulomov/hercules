@@ -1,0 +1,50 @@
+[
+    {
+        "image": "https://www.mastermechanic.ca/blog/wp-content/uploads/2016/06/brake-service2.jpg",
+        "title": "Brakes & Brake Repair",
+        "description": "From the brake pedal to hydraulic brake fluid, brake master cylinder to power brake booster, drum brakes to disc brakes and electronic anti-lock brake sensors, Midas technicians know every part of your brake system inside and out and can perform brake",
+        "link": "Read more"
+    },
+    {
+        "image": "https://www.thedrive.com/content/2020/09/How-Often-To-Change-Synthetic-Oil.jpg",
+        "title": "Oil Change",
+        "description": "Oil is the lifeblood of your engine. It reduces friction, lessens wear, provides lubrication, forms a seal between the pistons, rings and cylinder walls while helping to cool engine parts. Without the cleaning action of new oil, carbon and varnish buildup would be toxic.",
+        "link": "Read more"
+    },
+    {
+        "image": "https://visual-aids.s3-us-west-1.amazonaws.com/tire-pros/services/exhaust-muffler-repair/exhaust-muffler-repair-main.jpg",
+        "title": "Exhaust System Services",
+        "description": "You may think your car’s exhaust system is designed only to reduce noise, but it is also responsible for reducing harmful emissions from entering the atmosphere. Properly functioning mufflers and exhaust systems not only sound better, they are better – for you.",
+        "link":"Read more"
+    },
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/adobestock-121798525-1616195640.jpeg",
+        "title": "Check Engine Light",
+        "description": "An illuminated check engine light means you should have your vehicle checked as soon as possible. Midas has the expertise to decipher check engine light codes, resolve the required maintenance or repair issues, and get your car on the road safely.",
+        "link":"Read more"
+    },
+    {
+        "image": "http://cdn.shopify.com/s/files/1/0690/0793/3730/products/lights.png",
+        "title": "Lights, Wipers & Accessories",
+        "description": "Our Midas technicians can help improve your visibility by inspecting windshield wiper blades, headlamps, turn signals, and brake lights, and by filling your windshield washer fluid.",
+        "link":"Read more"
+    },
+    {
+        "image": "https://www.rodrysautorepair.com/images/suspension-steering-suspension.jpg",
+        "title": "Steering & Suspension",
+        "description": "Utilizing the latest diagnostic equipment our Midas ASE-certified technicians can repair and/or maintain your steering system, car suspension, and wheel alignment to keep you and your vehicle on the road with a smooth ride.",
+        "link":"Read more"
+    },
+    {
+        "image": "https://kingsquicklane.com/wp-content/uploads/2018/12/Belts-and-Hoses-Cincinnati-OH-Belt-System.jpg",
+        "title": "Belts & Hoses",
+        "description": "Sooner or later your car’s engine accessory drive belts, timing belts, and coolant hoses will dry out and crack. Regular inspections, coupled with timely automotive belt and hose replacement will help protect against roadside breakdowns and expensive repairs.",
+        "link":"Read more"
+    },
+    {
+        "image": "https://d1gymyavdvyjgt.cloudfront.net/drive/images/uploads/headers/ws_cropper/1_0x0_790x520_0x520_air_con_regas.jpg",
+        "title": "Car A/C & Heating Repair",
+        "description": "Car AC systems have components that require love and attention to avoid drying out and cracking. The car heater also needs regular check-ups to make sure there are no leaky valves or blockages. Let your neighborhood Midas service your A/C.",
+        "link":"Read more"
+    }
+]

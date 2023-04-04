@@ -1,0 +1,100 @@
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFFFFF;
+    padding: 10px 50px;
+    cursor: pointer;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    gap: 25px;
+}
+li a{
+    color: #FFFFFF;
+    text-decoration: none;
+    
+}
+li a:hover{
+    font-weight: 700;
+}
+.nav-children{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.nav-child{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+.btn-wrapper{
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    border: 1px solid #9CA2B0;
+    background-color: #9CA2B0;
+    overflow: hidden;
+}
+.market{
+    background-color: #9CA2B0;
+    border: none;
+    color: #000000;
+    padding: 13px 20px;
+}
+.services{
+    color: #FFFFFF;
+    padding: 13px 28px;
+    border-radius: 50px;
+    background: #39546C;
+    border: 1px solid #9CA2B0;
+}
+nav select{
+    background: none;
+    border: none;
+    color: #FFFFFF;
+}
+.hero{
+    background-image: url(../images/hero.png);
+    width: 100%;
+    max-height: 90vh;
+    background-position: center;
+}
+.hero-child{
+    padding: 100px 50px;
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(90.16deg, #000000 -14%, rgba(0, 0, 0, 0.715847) 50.09%, rgba(0, 0, 0, 0) 99.87%);
+}
+h1{
+    color: #FFFFFF;
+}
+.hero-child p{
+    color: #FFFFFF;
+    margin: 13px 0px 42px 0px;
+}
+.contact-btn{
+    background-color: #39546C;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 40px;
+}
+.info{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 60px;
+    padding: 15px 50px 106px 50px;
+}
+.info p{
+    color: #BCBCBC;
+    margin-top: 7px;
+}
+.contact,.location,.open{
+    background: linear-gradient(90.16deg, #062D53, rgba(48, 108, 168, 0));
+    display: flex;
+    color: #FFFFFF;
+    gap: 10px;
+    padding: 20px;
+}

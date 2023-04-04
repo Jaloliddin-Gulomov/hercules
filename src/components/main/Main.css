@@ -1,0 +1,64 @@
+main{
+    text-align: center;
+    color: #FFFFFF;
+}
+main p{
+    color: #C1C1C1;
+    margin-top: 13px;
+}
+.cards{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px;
+    padding: 70px 49px 70px 49px;
+
+}
+button{
+    background-color: #39546C;
+    padding: 15px 40px;
+    color: #FFFFFF;
+}
+.contact-card{
+    padding: 45px;
+    background-image: url(../images/contactCardImage.png);
+    width: 100%;
+    margin-top: 100px
+}
+.contact-card button{
+    margin-top: 15px;
+}
+article{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 85px;
+    padding: 134px 50px 100px 50px;
+}
+article h3{
+    text-transform: uppercase;
+}
+.with-you{
+    display: flex;
+    gap: 43px;
+    padding-right: 50px;
+    margin-bottom: 132px;
+}
+.with-you img{
+    max-width: 778px;
+}
+.with-child{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: start;
+}
+.with-child a{
+    color: #39546C;
+    font-size: 20px;
+}
+.meet h2{
+    margin-bottom: 45px;
+}
+.company h2{
+    margin: 100px 0px 37px 0px;
+}
